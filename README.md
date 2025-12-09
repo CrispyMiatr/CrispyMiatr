@@ -1,10 +1,15 @@
-## Hi there 👋
+# Hello there!
+
+I'm Maxim, also known as Miatr or Crispy, you can choose.
+Former for most of my online presence, latter for my instagram alias
+
+I study Multimedia & Creative Technologies at Erasmushogeschool Brussel, currently in my last year.
+My skills are full-stack development, with a focus on front-end.
+I also make music once in a while, and I have a photography account @crispy.drinks on instagram.
+
+I hope you like the projects you see here!
 
 <!--
-**CrispyMiatr/CrispyMiatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
